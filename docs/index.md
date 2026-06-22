@@ -1,17 +1,48 @@
-# Welcome to MkDocs
+# Dr Tafara Estelle Makuni
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my personal website were you will find information about me.
 
-## Commands
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Education
+*Imperial College London* <br>
+Position: PhD Student
+August 2023 - Current
 
-## Project layout
+*Norwegian University of Science and Technology* <br>
+Department of Energy and Process Engineering; Trondheim, Norway
+Position: Post Doctoral Fellow
+August 2017 - January 2018
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*University of Cambridge* <br>
+Department of Engineering; Cambridge, United Kingdom
+Position: PhD Student
+October 2012 - October 2017
+
+## Publications
+
+**Shock Wave-Boundary-Layer Interactions in Subsonic Intakes at High Incidence**;<br>
+TE Makuni, H Babinsky, M Slaby, CT Sheaf
+53rd AIAA Aerospace Sciences Meeting, 0067
+
+**Transitional Shock-Wave/Boundary-Layer Interactions in Intakes at Incidence**;<br>
+TE Makuni, HS Kalsi, PG Tucker, H Babinsky
+Symposium on Field of the Research Unit 1066, 323-333
+
+**Experimental investigations of shock-wave/boundary-layer interactions in transonic aircraft engine intakes at high incidence**;<br>
+TE Makuni, H Babinsky, M Slaby, C Sheaf
+53rd AIAA Aerospace Sciences Meeting, 6.2015-0067
+
+**Digital Twin for Aerodynamic and Structural Interaction**;<br>
+TE Makuni, Z Sharif-Khodaei, FMH Aliabadi
+Procedia Structural Integrity 80, 105-116
+
+**Shock-wave/boundary-layer Interactions in Transonic Aircraft Engine Intakes at High Incidence**;<br>
+TE Makuni
+University of Cambridge
+
+**Experimental Investigations of Shock Wave–Boundary-Layer Interactions in Intakes at High Incidence**;
+TE Makuni, H Babinsky
+
+## Social Media
++ [LinkedIn](https://uk.linkedin.com/in/tafara-e-makuni)
