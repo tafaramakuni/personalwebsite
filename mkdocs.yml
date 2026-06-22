@@ -5,7 +5,7 @@ theme:
     palette:
       primary: blue
       features:
-        navigation.tabs
+        - navigation.tabs
 
 markdown_extensions:
   - admonition
