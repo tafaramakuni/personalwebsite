@@ -49,6 +49,7 @@ TE Makuni, H Babinsky
 + [LinkedIn](https://uk.linkedin.com/in/tafara-e-makuni)
 + Instagram
 + Twitter
++ YouTube
 + Pinterest
 + DeviantArt
 + Medium
