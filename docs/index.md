@@ -20,7 +20,6 @@ Department of Engineering; Cambridge, United Kingdom <br>
 Position: PhD Student <br>
 October 2012 - October 2017<br>
 
-
 ## Publications
 
 **Digital Twin for Aerodynamic and Structural Interaction**;<br>
