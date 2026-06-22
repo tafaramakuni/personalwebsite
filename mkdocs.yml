@@ -4,6 +4,8 @@ theme:
   name: material
     palette:
       primary: blue
+      features:
+        navigation.tabs
 
 markdown_extensions:
   - admonition
