@@ -6,18 +6,18 @@ Welcome to my personal website were you will find information about me.
 
 ## Education
 *Imperial College London* <br>
-Position: PhD Student
-August 2023 - Current
+Position: PhD Student<br>
+August 2023 - Current<br>
 
 *Norwegian University of Science and Technology* <br>
-Department of Energy and Process Engineering; Trondheim, Norway
-Position: Post Doctoral Fellow
-August 2017 - January 2018
+Department of Energy and Process Engineering;Trondheim, Norway<br>
+Position: Post Doctoral Fellow<br>
+August 2017 - January 2018<br>
 
 *University of Cambridge* <br>
-Department of Engineering; Cambridge, United Kingdom
-Position: PhD Student
-October 2012 - October 2017
+Department of Engineering; Cambridge, United Kingdom <br>
+Position: PhD Student <br>
+October 2012 - October 2017<br>
 
 ## Publications
 
@@ -46,3 +46,11 @@ TE Makuni, H Babinsky
 
 ## Social Media
 + [LinkedIn](https://uk.linkedin.com/in/tafara-e-makuni)
++ Instagram
++ Twitter
++ Pinterest
++ DeviantArt
++ Medium
++ Tumblr
++ Google Scholar
++ Research Gate
