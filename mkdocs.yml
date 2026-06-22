@@ -6,4 +6,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
 
-  
+  theme:
+  palette:
+    primary: blue
