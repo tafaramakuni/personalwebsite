@@ -4,6 +4,12 @@ Welcome to my personal website were you will find information about me.
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
 
+## About Me
+- [x] Christian
+- [x] Scientist
+- [x] She/Her
+- [ ] Funny ;)
+
 ## Education
 **Imperial College London** <br>
 Position: PhD Student<br>
