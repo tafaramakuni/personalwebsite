@@ -22,6 +22,10 @@ October 2012 - October 2017<br>
 
 ## Publications
 
+**Digital Twin for Aerodynamic and Structural Interaction**;<br>
+TE Makuni, Z Sharif-Khodaei, FMH Aliabadi
+Procedia Structural Integrity 80, 105-116
+
 **Shock Wave-Boundary-Layer Interactions in Subsonic Intakes at High Incidence**;<br>
 TE Makuni, H Babinsky, M Slaby, CT Sheaf
 53rd AIAA Aerospace Sciences Meeting, 0067
@@ -33,10 +37,6 @@ Symposium on Field of the Research Unit 1066, 323-333
 **Experimental investigations of shock-wave/boundary-layer interactions in transonic aircraft engine intakes at high incidence**;<br>
 TE Makuni, H Babinsky, M Slaby, C Sheaf
 53rd AIAA Aerospace Sciences Meeting, 6.2015-0067
-
-**Digital Twin for Aerodynamic and Structural Interaction**;<br>
-TE Makuni, Z Sharif-Khodaei, FMH Aliabadi
-Procedia Structural Integrity 80, 105-116
 
 **Shock-wave/boundary-layer Interactions in Transonic Aircraft Engine Intakes at High Incidence**;<br>
 TE Makuni
