@@ -57,10 +57,7 @@ TE Makuni, H Babinsky
 + Google Scholar
 + Research Gate
 
-### Disclaimer
+## Disclaimer
 
-    Views expressed are my own opinions and does not reflect your employer or organizations. 
-    The auther takes no responsibility for the accuracy of the information presented here.
-
-
-    
+Views expressed are my own opinions and does not reflect your employer or organizations. 
+The auther takes no responsibility for the accuracy of the information presented here.
