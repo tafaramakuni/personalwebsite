@@ -18,7 +18,10 @@ August 2017 - January 2018<br>
 **University of Cambridge** <br>
 Department of Engineering; Cambridge, United Kingdom <br>
 Position: PhD Student <br>
-October 2012 - October 2017<br>
+- PhD: October 2012 - October 2017<br>
+- MA (cantab): October 2008 - October 2015<br>
+- MEng: October 2008 - October 2012<br>
+
 
 ## Publications
 
