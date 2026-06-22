@@ -5,16 +5,17 @@ Welcome to my personal website were you will find information about me.
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/10b57956-7a34-4ccc-9951-9476b3fcab03" />
 
 ## Education
-*Imperial College London* <br>
+**Imperial College London** <br>
 Position: PhD Student<br>
+Department of Aeronautical Engineer; London, United Kingdom <br>
 August 2023 - Current<br>
 
-*Norwegian University of Science and Technology* <br>
+**Norwegian University of Science and Technology** <br>
 Department of Energy and Process Engineering;Trondheim, Norway<br>
 Position: Post Doctoral Fellow<br>
 August 2017 - January 2018<br>
 
-*University of Cambridge* <br>
+**University of Cambridge** <br>
 Department of Engineering; Cambridge, United Kingdom <br>
 Position: PhD Student <br>
 October 2012 - October 2017<br>
@@ -54,3 +55,11 @@ TE Makuni, H Babinsky
 + Tumblr
 + Google Scholar
 + Research Gate
+
+### Disclaimer
+
+    Views expressed are my own opinions and does not reflect your employer or organizations. 
+    The auther takes no responsibility for the accuracy of the information presented here.
+
+
+    
