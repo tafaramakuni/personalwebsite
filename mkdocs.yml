@@ -1,11 +1,13 @@
 site_name: Dr Tafara Estelle Makuni
-theme: material
+
+theme:
+  name: material
+  palette:
+    primary: blue
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
 
-  theme:
-  palette:
-    primary: blue
+
