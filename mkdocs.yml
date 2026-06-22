@@ -4,12 +4,10 @@ theme:
   name: material
     palette:
       primary: blue
-      features:
-        - navigation.tabs
+  features:
+    - navigation.tabs
 
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-
